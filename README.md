@@ -1,12 +1,12 @@
 # _Proyecto Elecciones Congreso_
 
-Esta aplicación fue modificada por el grupo Semillero de Innovación Geografica(SIG) de Esri Colombia, para mayor información consulte www.ersi.co o visite @geo_geeks en twitter.
+Esta aplicación fue modificada por el grupo Semillero de Innovación Geográfica (SIG) de Esri Colombia, para mayor información consulte www.ersi.co o visite @geo_geeks en twitter.
 
-En esta aplicación web se pueden encontrar los resultados de las Elecciones a Camara y Senado de la Republica de Colombia, adicionalmente contiene distinta información importante de las mismas. Los datos son suministrados por la registraduría de la Republica y materializados por ARCGIS.
+En esta aplicación web se pueden encontrar los resultados de las Elecciones a Cámara y Senado de la República de Colombia, adicionalmente contiene distinta información importante de las mismas. Los datos son suministrados por la registraduría de la Republica y materializados por ARCGIS.
 
 ## Configuración
 
-Para que la aplicación sea funcional es necesario contar con un los Sistemas de Información Geografica de ESRI Colombia por medio de la plataforma ArcGis, de ahí se toman lo datos a mostrar
+Para que la aplicación sea funcional es necesario contar con un los Sistemas de Información Geográfica de ESRI Colombia por medio de la plataforma ArcGis, de ahí se toman lo datos a mostrar
 
 1. Cargar los distintos servicios desde ArcGis, con los datos que se quieren mostrar
 
@@ -23,7 +23,7 @@ Para que la aplicación sea funcional es necesario contar con un los Sistemas de
         County: "elecciones.DBO.departamentos.PAIS"
     },
     ```
-2. Si desea personalizar la aplicación es necesario crear los diferentes servicios y modificalos en la aplicación
+2. Si desea personalizar la aplicación es necesario crear los diferentes servicios y modificarlos en la aplicación
 
 ## Implementación
 
